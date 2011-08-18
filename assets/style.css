@@ -1,0 +1,90 @@
+body {height:100%;
+}
+
+ul{
+list-style-type: none;
+-webkit-margin-before:0;
+-webkit-margin-after: 0;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+-webkit-padding-start: 0;
+}
+
+#home {
+	padding-bottom: 0px;
+	padding-top: 290px;
+	background-repeat: no-repeat;
+	height: 100%;
+
+	background-image: url(images/background-Image.jpg);
+}
+#pingtones {
+	padding-bottom: 0px;
+	padding-top: 290px;
+	
+
+	background-repeat: no-repeat;
+	background-image: url(images/background-Image.jpg);
+	background-color:black;
+
+}
+
+
+#logo {
+	float: right;
+}
+
+#power {
+	float: left;
+}
+
+#thebrigade {
+	
+	background-color: black;
+	
+	min-height: 400px;
+	
+	background-image: url(images/thebrigadebg.jpg);
+	
+	background-repeat: no-repeat;
+
+}
+.page{
+}
+ul.links{
+	padding-bottom: 0px;
+	list-style-type: none;
+	text-decoration: none;
+}
+li{
+	padding-bottom: 4px;
+	padding-top: 4px;
+
+}
+#footer{
+	padding: 0px;
+}
+ui-content{
+padding: 0px;
+}
+#facebook{
+	min-height: 300px;
+}
+ul.thebrigade{
+}
+ li.thebrigade{
+	background-image: url(images/thebrigade/bg.png);
+	margin-bottom: 4px;
+	padding-right:150px;
+	margin-left: 30px;
+	width:230px;
+}
+li.ping{
+	background-image: url(images/thebrigade/bg.png);
+	margin-bottom: 4px;
+	padding-right:150px;
+	width:230px;
+}
+li.thebrigade a{padding-right: 150px;}
+li.thebrigade a{ 	color:#F7E315;
+	}
